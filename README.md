@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://www.cinconoticias.com/wp-content/uploads/Generos-de-videojuegos.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://github.com/oscardavid120896/APP_GACOR/blob/main/videojuegos.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
