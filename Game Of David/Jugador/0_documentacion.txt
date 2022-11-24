@@ -1,0 +1,13 @@
+Códigos de respuesta
+	
+	200 -> Conexíon Exitosa
+	201 -> Se registra un usuario correctamente
+	202 -> El usuario existe en el sistema
+	203 -> El usuario no existe
+	400 -> Error en la conexión
+	401 -> Error al crear el usuario
+	402 -> Faltan datos
+
+Usos de las funcionalidades
+
+	Check -> 
