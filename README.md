@@ -32,7 +32,7 @@
   * > Género: Aventura
   * > Clasificación: Contenido para todas las edades
   * > Objetos especiales: Sonido y partículas
-  * > Personajes: Lee Yohu (Personaje que corre)
+  * > Personajes: María (Personaje en tercerá persona)
   * > Escenario: Bosque
 - Historia
   * > En la edad media, se solía decir que existían los vampiros, y en este caso la idea salió por lo misterioso que era saber si existían o no
