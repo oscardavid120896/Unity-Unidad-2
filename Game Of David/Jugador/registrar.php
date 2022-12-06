@@ -7,9 +7,9 @@ try{
 		echo '{"codigo":400,"mensaje":"Error al intentar conectar","respuesta":""}';
 	}else{
 		
-		if(isset($_GET['usuario']) && isset($_GET['pass'])){
-			$usuario = $_GET['usuario'];
-			$pass = $_GET['pass'];
+		if(isset($_GET['usuario']) && isset($_POST['pass'])){
+			$usuario = $_POST['usuario'];
+			$pass = $_POST['pass'];
 			$nivel = 1;
 			$score = 0;
 
